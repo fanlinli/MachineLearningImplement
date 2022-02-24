@@ -10,8 +10,11 @@ In this repository, I will implement some machine learning algorithms in Python,
     * KMeans++
     * PVQclustering
     * spectral-clustering
-    * spectral-clustering-2
-
+    
+    #谱聚类实现代码
+    * spectral-clustering-2 
+    #谱聚类实现代码
+  
 * PageRank
     * Flow Formula
     * Google Formula
